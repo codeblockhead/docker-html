@@ -16,6 +16,6 @@ import TheWelcome from "@/components/TheWelcome.vue";
             :defaultConfig="editorConfig"
             :mode="mode"
             @onCreated="onCreated"
-        />33
+        />3344
     </div>
 </template>
