@@ -17,5 +17,6 @@ import TheWelcome from "@/components/TheWelcome.vue";
             :mode="mode"
             @onCreated="onCreated"
         />
+        111
     </div>
 </template>
