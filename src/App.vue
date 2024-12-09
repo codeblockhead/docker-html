@@ -10,7 +10,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       class="logo"
       src="@/assets/logo.svg"
       width="125"
-      height="125"
+      height="124"
     />
 
     <div class="wrapper">
